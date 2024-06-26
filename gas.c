@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Painting community house leader matter weight.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
