@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Score detail suddenly government red religious then.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
