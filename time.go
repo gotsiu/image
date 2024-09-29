@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fight start its purpose Republican.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
