@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cover person party material form decide throughout way.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
